@@ -1,9 +1,13 @@
+<div align="center">
 #  📁✨ *Portafolio Digital de Aprendizaje*  
+</div>
+
 ## 🧮 Matemáticas Discretas
 
 ---
-
+<div align="center">
 ## 🏛 *Universidad Nacional de Loja*
+</div>
 
 *Facultad:* Energía, Industrias y Recursos Naturales No Renovables  
 *Carrera:* 💡 Computación – Primer Ciclo  
