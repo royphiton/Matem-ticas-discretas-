@@ -6,7 +6,7 @@
 
 ---
 <div align="center">
-## 🏛 *Universidad Nacional de Loja*
+##  🏛 *Universidad Nacional de Loja*
 </div>
 
 
