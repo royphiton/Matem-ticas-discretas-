@@ -7,7 +7,7 @@
 
 *Facultad:* Energía, Industrias y Recursos Naturales No Renovables  
 *Carrera:* 💡 Computación – Primer Ciclo  
-*Docente:* 👩‍🏫 Ing. Lissette Gioconda López Faicán  
+*Docente:* 👩‍🏫 Ing. Cueva Hurtado Mario Enrique  
 *Estudiante:* 👨‍💻 Roy Alexander Gordillo Chocho  
 
 ---
