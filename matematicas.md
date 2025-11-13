@@ -18,7 +18,7 @@
 
 | 🔢 *Unidad* | 📂 *Acceso* |
 |:-------------:|:-------------:|
-| 🧠 *Unidad 1* | [📘 Abrir Unidad ](Unidad.md) 
+| 🧠 *Unidad 1* | [Abrir Unidad](unidad.md) 
 
 ---
 
