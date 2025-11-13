@@ -9,6 +9,7 @@
 ## 🏛 *Universidad Nacional de Loja*
 </div>
 
+
 *Facultad:* Energía, Industrias y Recursos Naturales No Renovables  
 *Carrera:* 💡 Computación – Primer Ciclo  
 *Docente:* 👩‍🏫 Ing. Cueva Hurtado Mario Enrique  
