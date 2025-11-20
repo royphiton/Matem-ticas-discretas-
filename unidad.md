@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1odG1hTiS0cJsRVvPeAQjDPyZQ3ubnUC2/view?usp=drive
 
 https://drive.google.com/file/d/1p_stmxx5QmoiIxzaRWjiRijgzU2FxT6l/view?usp=drive_link
 
-## ACD2. Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))
+## ACD2: Implicaciones, equivalencias y razonamiento deductivo (leyes proposicionales y reglas de inferencia))
 
 https://drive.google.com/file/d/1-TiL3_jFjNlA0xM7SHmuc4gEzg_H_i3J/view?usp=drive_link
 
