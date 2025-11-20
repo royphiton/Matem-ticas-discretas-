@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1jDXsGq0BYMHjIYCuVIbcfIwHerA6pJrc/view?usp=drive
 
 ## AAA2. LECTURA DE PORTAFOLIO
 
-https://drive.google.com/file/d/1ifhPu_0XXUkZCaDJRAdxUkdzDJUH4paX/view?usp=drive_link
+https://drive.google.com/file/d/1odG1hTiS0cJsRVvPeAQjDPyZQ3ubnUC2/view?usp=drive_link
 
 # ACD: 
 
